@@ -1,0 +1,39 @@
+.div1
+{
+    background-color: aquamarine;
+    height: 300px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 130px;
+}
+.i1
+{
+    margin-top: 85px;
+    margin-left: 10px;
+}
+.i2
+{
+    margin-top: 15px;
+    margin-left: 14px;
+}
+.l1, .l2
+{
+    margin-left: 90px;
+    color: darkslateblue;
+}
+.b1
+{
+    margin-top: 23px;
+    margin-left: 214px;
+    border: 1px solid pink;
+    background-color: pink;
+    border-radius: 6px;
+    height: 35px;
+    width: 88px;
+    color: darkgreen;
+}
+.m1
+{
+    margin-left: 187px;
+    color: darkslateblue;
+}
